@@ -1,5 +1,5 @@
 import React, { useEffect, useState } from "react";
-import { assets } from "../../../Spotify-Clone/src/assets/assets";
+import { assets } from "../assets/assets";
 import axios from 'axios'
 import { toast } from "react-toastify";
 import { url } from "../config";
