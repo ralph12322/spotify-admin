@@ -1,5 +1,5 @@
 import React, { useState } from "react";
-import { assets } from "../assets";
+
 import { toast } from "react-toastify";
 import { url } from "../config";
 import axios from "axios";
