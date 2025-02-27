@@ -1,5 +1,5 @@
 import React from 'react'
-import { assets } from '../../../Spotify-Clone/src/assets/assets'
+import { assets } from '../assets/assets'
 import { NavLink } from 'react-router-dom'
 
 const SideBar = () => {
